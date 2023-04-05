@@ -1,0 +1,11 @@
+C:\Users\Leniv\source\repos\WordTable\WordTable\bin\Debug\WordTable.exe.config
+C:\Users\Leniv\source\repos\WordTable\WordTable\bin\Debug\WordTable.exe
+C:\Users\Leniv\source\repos\WordTable\WordTable\bin\Debug\WordTable.pdb
+C:\Users\Leniv\source\repos\WordTable\WordTable\obj\Debug\WordTable.csproj.AssemblyReference.cache
+C:\Users\Leniv\source\repos\WordTable\WordTable\obj\Debug\WordTable.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leniv\source\repos\WordTable\WordTable\obj\Debug\WordTable.csproj.CoreCompileInputs.cache
+C:\Users\Leniv\source\repos\WordTable\WordTable\obj\Debug\WordTable.exe
+C:\Users\Leniv\source\repos\WordTable\WordTable\obj\Debug\WordTable.pdb
+C:\Users\Leniv\source\repos\WordTable\WordTable\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Leniv\source\repos\WordTable\WordTable\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Leniv\source\repos\WordTable\WordTable\obj\Debug\WordTable.csproj.CopyComplete
